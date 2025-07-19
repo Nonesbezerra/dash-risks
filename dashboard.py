@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+import streamlit.pyplot as plt
 
 # Título do app
 st.set_page_config(page_title="Dashboard de Riscos Operacionais com IA", layout="wide")
